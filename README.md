@@ -34,9 +34,8 @@ A collection of engaging mini-games designed to improve memory and focus skills,
 ### Prerequisites
 - Python 3.12 or higher
 
-### Installation
+### Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/Mordekai66/MindGym.git
 cd MindGym
 ```
