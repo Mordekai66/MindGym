@@ -1,10 +1,10 @@
 # MindGym
 
-A collection of engaging mini-games designed to improve memory and focus skills, built with Python and Pygame.
-
 ![Game Suite](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![Pygame](https://img.shields.io/badge/Pygame-2.5.2-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+A collection of engaging mini-games designed to improve memory and focus skills, built with Python and Pygame.
 
 ## Games Included
 
