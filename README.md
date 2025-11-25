@@ -36,12 +36,12 @@ A collection of engaging mini-games designed to improve memory and focus skills,
 
 ### 2. Clone the repository
 
-### Install dependencies
+### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the game
+### 4. Run the game
 ```bash
 python main.py
 ```
